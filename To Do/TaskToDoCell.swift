@@ -21,6 +21,7 @@ class TaskToDoCell: UITableViewCell {
             titleTaskLabel.textColor = .red
         case .notUrgent:
             titleTaskLabel.textColor = .blue
+
         }
     }
     
