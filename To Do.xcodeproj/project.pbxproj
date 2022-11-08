@@ -27,6 +27,7 @@
 		302DE3252917FFE500AC59B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		302DE3272917FFE500AC59B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		302DE32D29180F5900AC59B2 /* TaskToDoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskToDoCell.swift; sourceTree = "<group>"; };
+		306F11E8291AEA460051A513 /* Dissertativas.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Dissertativas.md; sourceTree = "<group>"; };
 		30C1876129196999004E23C3 /* TaskDefinition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDefinition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,6 +64,7 @@
 				302DE3192917FFE300AC59B2 /* AppDelegate.swift */,
 				302DE31B2917FFE300AC59B2 /* SceneDelegate.swift */,
 				302DE31D2917FFE300AC59B2 /* ViewController.swift */,
+				306F11E8291AEA460051A513 /* Dissertativas.md */,
 				302DE31F2917FFE300AC59B2 /* Main.storyboard */,
 				302DE32D29180F5900AC59B2 /* TaskToDoCell.swift */,
 				30C1876129196999004E23C3 /* TaskDefinition.swift */,
